@@ -1,5 +1,4 @@
 import flet as ft
-#TODO переписать все нахрен
 
 def main(page: ft.Page):
     page.window_bgcolor = 'black'
