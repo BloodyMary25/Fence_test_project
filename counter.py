@@ -2,7 +2,7 @@ import flet as ft
 #TODO переписать все нахрен
 
 def main(page: ft.Page):
-    page.window_bgcolor = 'images/img.png'
+    page.window_bgcolor = 'black'
     page.bgcolor = ft.colors.BLACK
 
     page.title = "Счетчик бойцов"
